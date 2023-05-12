@@ -18,6 +18,7 @@ function mySecondFunction(Farenheit) {
     } else {
         return Celsius;
     }
+}
     console.log(mySecondFunction(60))
     
     // #3
