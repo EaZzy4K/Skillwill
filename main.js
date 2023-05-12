@@ -3,7 +3,7 @@ function myFunction(a, b) {
     if (a===b) {
         return "ტოლია";
     } else {
-        return "არ არის ტოლი";\
+        return "არ არის ტოლი";
      }
 }
 // მაგალითი:
